@@ -1,3 +1,8 @@
 Hi!! I'm Bob. I've been here for a while now. Hello
 
+<<<<<<< Updated upstream
 test for stash
+=======
+test for stash local
+
+>>>>>>> Stashed changes
